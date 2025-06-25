@@ -27,14 +27,21 @@ ARC-Net is a novel deep learning architecture designed for highly accurate DeepF
 
 ## 📂 Datasets Used
 
-* 📁 **140k Real and Fake Faces** (Kaggle)
-* 📁 **Collected Dataset**
+*  **140k Real and Fake Faces** (Kaggle)
+*  **Collected Dataset**
   * Includes 500 real human face images collected from individuals in **Bangladesh** under informed consent.
-* 📁 **DeepFake Dataset** (Kaggle)
-* 📁 **DeepFake Database** (Kaggle)
+*  **DeepFake Dataset** (Kaggle)
+*  **DeepFake Database** (Kaggle)
 
 ![image](https://github.com/user-attachments/assets/d1d3ff70-ce7e-4963-bd29-e4e8ced0f24b)
 ![image](https://github.com/user-attachments/assets/9a5e8ba9-5f28-45f5-84c3-3d53b528bc57)
+
+---
+
+## 📑 Project Structure
+
+![Figure_1](https://github.com/user-attachments/assets/3d85e58a-c001-41e0-841d-d3cfb39c980c)
+![Figure_3](https://github.com/user-attachments/assets/3aa8859f-b3bb-4350-804c-ada8a9c981c0)
 
 
 ---
@@ -47,16 +54,17 @@ ARC-Net is a novel deep learning architecture designed for highly accurate DeepF
 
 
 ---
+## 📈 Ablation Study
 
-## 📑 Project Structure
-
-![Figure_1](https://github.com/user-attachments/assets/3d85e58a-c001-41e0-841d-d3cfb39c980c)
+![image](https://github.com/user-attachments/assets/c13d6295-f0e7-46a9-95a0-a871d037a351)
 
 
+---
 ## 📜 Ethical Statement & Data Access
 
 *The 500 images that used to create the hybrid dataset in this study, is not publicly available due to ethical and privacy concerns. Other datasets are publicly available in Kaggle. During data collection, informed consent was obtained from all participants, where they were explicitly informed that the data would be used solely for this research. The data will remain confidential, and all necessary security measures are being maintained to protect participant privacy. However, the data are available upon reasonable request from the corresponding author (Monirul Islam Mahmud, Email: mahmudislam2025@gmail.com) or (Optional) You may include Mostafizur Rahman (Officer, Office of Research, North South University) in CC for records at: mostafizur.rahman09@northsouth.edu, for researchers who meet the criteria for access to confidential data and follow the instruction outlined in the data agreement form - https://shorturl.at/YmODF.*
 
+Data Access Agreement form is attached for more details: [Data Access Agreement.pdf](https://github.com/user-attachments/files/20913085/Data.Access.Agreement.pdf)
 ---
 
 ## 🤝 Citation
@@ -65,9 +73,4 @@ If you use this work, please consider citing it once the corresponding paper is 
 
 ---
 
-Let me know if you want a `requirements.txt`, colab badge, or training instructions added too.
 
-
-![Figure_1](https://github.com/user-attachments/assets/345fc736-de11-4608-b569-26cffdc7f1c7)
-![Figure_3](https://github.com/user-attachments/assets/5bfdb978-158c-4644-9a63-5f29c152ee24)
-[Data Access Agreement.pdf](https://github.com/user-attachments/files/20913085/Data.Access.Agreement.pdf)
