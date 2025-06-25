@@ -65,8 +65,8 @@ ARC-Net is a novel deep learning architecture designed for highly accurate DeepF
 *The 500 images that used to create the hybrid dataset in this study, is not publicly available due to ethical and privacy concerns. Other datasets are publicly available in Kaggle. During data collection, informed consent was obtained from all participants, where they were explicitly informed that the data would be used solely for this research. The data will remain confidential, and all necessary security measures are being maintained to protect participant privacy. However, the data are available upon reasonable request from the corresponding author (Monirul Islam Mahmud, Email: mahmudislam2025@gmail.com) or (Optional) You may include Mostafizur Rahman (Officer, Office of Research, North South University) in CC for records at: mostafizur.rahman09@northsouth.edu, for researchers who meet the criteria for access to confidential data and follow the instruction outlined in the data agreement form - https://shorturl.at/YmODF.*
 
 Data Access Agreement form is attached for more details: [Data Access Agreement.pdf](https://github.com/user-attachments/files/20913085/Data.Access.Agreement.pdf)
----
 
+---
 ## 🤝 Citation
 
 If you use this work, please consider citing it once the corresponding paper is published in PLoS ONE.
