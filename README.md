@@ -6,22 +6,27 @@ ARC-Net is a novel deep learning architecture designed for highly accurate DeepF
 
 ## 📌 Key Highlights
 
-* ✅ **ARC-Net (Proposed Model)**
+*  **ARC-Net (Proposed Model)**
 
   * Combines **attention** and **residual mechanisms** with **EfficientNetB0** for better feature abstraction.
 
-* 🧪 **Traditional DL Models for Comparison**
+*  **Traditional DL Models for Comparison**
 
   * DenseNet121
   * ResNet50
   * MobileNetV2
   * VGG16
   * InceptionV3
-
-* 📊 **Explainable AI (XAI)**
+    
+*  **Ablation Study**
+  
+*  **Generalizability Check**
+  
+*  **Explainable AI (XAI)**
 
   * **LIME** (Local Interpretable Model-Agnostic Explanations)
-  * **Grad-CAM** for visualizing class-discriminative regions in images
+  * **Grad-CAM** for visualizing class-discriminative regions in images.
+    
 
 ---
 
@@ -71,6 +76,6 @@ Data Access Agreement form is attached for more details: [Data Access Agreement.
 
 If you use this work, please consider citing it once the corresponding paper is published in PLoS ONE.
 
----
+
 
 
